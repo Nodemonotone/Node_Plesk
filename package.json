@@ -1,0 +1,28 @@
+{
+  "name": "node_plesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodemonotone/Node_Plesk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nodemonotone/Node_Plesk/issues"
+  },
+  "homepage": "https://github.com/Nodemonotone/Node_Plesk#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "engines": {
+    "node" : "17.7.1",
+    "npm"  : "8.3.1"
+  }
+}
